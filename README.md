@@ -1,4 +1,4 @@
-# BA-Project
+# Business Analysis-Project
 This is a group project carried out by a team of four.
 The tools used for this project are Bizagi, X-mind and Pencil.
 This project helped me discover the importance of working in teams.
